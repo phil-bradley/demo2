@@ -1,4 +1,4 @@
 THis is a file
 
 This is another line
-zzzz, on a brnach
+zzzz, on a brnaca conflict right here
